@@ -58,7 +58,7 @@ class Program
         }
 
         // Exercise
-
+        ExerciseStatic.TextExercise();
     }
 
 }

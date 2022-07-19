@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOPPrinciples.Exercise.Class" Collapsed="true">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAQAAQAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exercise1\Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPPrinciples.Exercise.Course" Collapsed="true">
+    <Position X="1.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAgAIAAAEAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exercise1\Course.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPPrinciples.Exercise.People" Collapsed="true">
+    <Position X="5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exercise1\People.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPPrinciples.Exercise.School" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Exercise1\School.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPPrinciples.Exercise.Student" Collapsed="true">
+    <Position X="8.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Exercise1\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOPPrinciples.Exercise.Teacher" Collapsed="true">
+    <Position X="1.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAA=</HashCode>
+      <FileName>Exercise1\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

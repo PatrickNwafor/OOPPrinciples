@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOPPrinciples.Exercise2
 {
-    internal class Student: Human
+    internal class Student: Human, IComparable<Student>
     {
         private double mark;
 
@@ -16,6 +16,27 @@ namespace OOPPrinciples.Exercise2
             : base(firstName, lastName)
         {
             this.mark = mark;
+        }
+
+        public int CompareTo(Student? other)
+        {
+            if(this.mark == other.mark)
+            {
+                return 0;
+            }
+            else if(this.mark < other.mark)
+            {
+                return -1;
+            }
+            else
+            {
+                return 1;
+            }
+        }
+
+        public override string? ToString()
+        {
+            return String.Format("First name: {0}, Last Name: {1}, Score: {2}", base.FirstName, base.LastName, Mark);
         }
     }
 }
