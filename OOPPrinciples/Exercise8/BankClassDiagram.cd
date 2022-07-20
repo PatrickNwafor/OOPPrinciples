@@ -11,7 +11,7 @@
     <Position X="1.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>EAEAAAAAAAAAAAAAAAgAAAAEAAEAAAAAAAAAAAAAAAI=</HashCode>
-      <FileName>Exercise8\Deposit.cs</FileName>
+      <FileName>Exercise8\DepositAccount.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
@@ -19,7 +19,7 @@
     <Position X="4.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>EAEAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAI=</HashCode>
-      <FileName>Exercise8\Mortgage.cs</FileName>
+      <FileName>Exercise8\MortgageAccount.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
@@ -27,7 +27,7 @@
     <Position X="7.75" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>EAEAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAAAAAAAAAI=</HashCode>
-      <FileName>Exercise8\Loan.cs</FileName>
+      <FileName>Exercise8\LoanAccount.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>

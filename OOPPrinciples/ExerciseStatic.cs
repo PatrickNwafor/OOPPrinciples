@@ -2,6 +2,7 @@
 using OOPPrinciples.Exercise2;
 using OOPPrinciples.Exercise6;
 using OOPPrinciples.Exercise8;
+using OOPPrinciples.Exercise9;
 
 internal static class ExerciseStatic
 {
@@ -100,5 +101,8 @@ internal static class ExerciseStatic
         bank.CreateAccount(depositAccount);
         bank.CreateAccount(loanAccount);
         bank.CreateAccount(mortgageAccount);
+
+        // Exercise 9
+        new Client().Main();
     }
 }

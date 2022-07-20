@@ -30,7 +30,7 @@ namespace OOPPrinciples.Exercise8
                         : this.InterestRate * numberOfMonths;
                     break;
                 case Customer.Individual:
-                    interest = numberOfMonths > 6 ? interest = this.InterestRate * numberOfMonths : 0;
+                    interest = numberOfMonths > 6 ? this.InterestRate * numberOfMonths : 0;
                     break;
                 default:
                     break;
